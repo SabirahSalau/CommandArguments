@@ -1,0 +1,12 @@
+name: CommandArguments
+version: ${project.version}
+main: me.glasswaves.commandarguments.CommandArguments
+api-version: 1.17
+authors: [ Glass_Waves ]
+description: testing command arguments
+website: https://www.youtube.com/channel/UCdjJ3FK01WlxrZrNlWGZD1A
+commands:
+  sendWord:
+    description: sending words
+  bringDeath:
+    description: uhhh ^
